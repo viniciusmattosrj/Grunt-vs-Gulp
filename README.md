@@ -1,14 +1,12 @@
 # Grunt vs Gulp
-
-Grunt vs Gulp - Rodrigo Branas
-- (Curso Youtube)[https://www.youtube.com/results?search_query=curso-gulp+rodrigo+branas]
+- <a href="https://www.youtube.com/results?search_query=curso-gulp+rodrigo+branas">Grunt vs Gulp</a> - Rodrigo Branas
 
 
 ## Instalação
 
 Só realizar o git clone do projeto e ser feliz
 ```bash
-git clone git@github.com:viniciusmattosrj/introducao-javascript.git
+git clone git@github.com:viniciusmattosrj/Grunt-vs-Gulp.git
 ```
 
 ## Contribuições
