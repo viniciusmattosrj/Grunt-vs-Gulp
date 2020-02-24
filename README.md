@@ -1,4 +1,6 @@
-# Grunt vs Gulp
+# Sobre o Projeto
+
+Curso voltado a explicar as diferenças entre o Grunt vs Gulp.
 - <a href="https://www.youtube.com/results?search_query=curso-gulp+rodrigo+branas">Grunt vs Gulp</a> - Rodrigo Branas
 
 
