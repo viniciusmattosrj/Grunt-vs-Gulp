@@ -1,20 +1,26 @@
-# Sobre o Projeto
+## Requerimentos
 
-Curso voltado a explicar as diferenças entre o Grunt vs Gulp.
-- <a href="https://www.youtube.com/results?search_query=curso-gulp+rodrigo+branas">Grunt vs Gulp</a> - Rodrigo Branas
+- Node &ge; 9.0
+- Npm
 
+### Tecnologias Utilizadas
 
-## Instalação
+* Docker 
+* Express
+* Code style: ESLint
 
-Só realizar o git clone do projeto e ser feliz
-```bash
-git clone git@github.com:viniciusmattosrj/Grunt-vs-Gulp.git
-```
+### Sobre
 
-## Contribuições
-Caso identifique pontos
-que possam ser aprimorados envie o seu PR. ;-)
+Este é um projeto de estudo para entender a diferença entre grunt e gulp.
 
+- <a href="https://www.youtube.com/results?search_query=curso-gulp+rodrigo+branas">Grunt vs Gulp</a> - Rodrigro Branas 
 
-## License
+### Instalação
+
+Para instalação verifique **[installation documentation](docs/installation.md)**.
+
+### Contribuições
+Feedback são sempre bem vindos, então caso identifique pontos que possam ser aprimorados envie o seu PR. ;-)
+
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
