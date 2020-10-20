@@ -1,11 +1,11 @@
 ## Requerimentos
 
-- Node &ge; 9.0
-- Npm
+- Node &ge; 10.15.*
+- Npm &ge; 6.14.*
 
 ### Tecnologias Utilizadas
 
-* Docker 
+* Docker ou NVM 
 * Express
 * Code style: ESLint
 
